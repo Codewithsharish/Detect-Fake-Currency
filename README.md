@@ -1,2 +1,2 @@
-# Detect-Fake-Currency
-Detect Fake Currency using Computer Vision
+# Detect-Fake-Currency using Image Processing
+Detect Fake Currency 
